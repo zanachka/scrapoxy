@@ -15,6 +15,7 @@ export const FREEPROXY_META = [
     'key',
     'address',
     'auth',
+    'timeout',
     'fingerprint',
     'fingerprintError',
     'disconnectedAt',
